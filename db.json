@@ -2,7 +2,7 @@
   "products": [
     {
       "name": "Gir",
-      "imgSrc": "require('../assets/gir.jpg')",
+      
       "age": 3,
       "price": 80000,
       "milkQty": 10,
@@ -13,7 +13,6 @@
     },
     {
       "name": "Jersey",
-      "imgSrc": "require('../assets/jersey.jpg')",
       "age": 4,
       "price": 75000,
       "milkQty": 15,
@@ -24,7 +23,6 @@
     },
     {
       "name": "HF",
-      "imgSrc": "require('../assets/hf-cow.jpg')",
       "age": 6,
       "price": 70000,
       "milkQty": 20,
